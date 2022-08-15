@@ -22,7 +22,7 @@ div>h1 {
 
 }
 
-div>h2 {
+div > h2 {
     color: white;
     font-family: arial black;
     background-color: red;
@@ -31,7 +31,7 @@ div>h2 {
 
 }
 
-div>input {
+div > input {
     padding: 10px;
     margin-top: 10px;
     font-size: 25px;
@@ -40,14 +40,15 @@ div>input {
 
 }
 
-div>button {
+div > button {
     background-color: blue;
     padding: 15px 20px;
-    font-size: 20px;
+    font-size: 25px;
     margin-top: 15px;
     color: white;
     border: none;
     outline: none;
     border-radius: 5px;
     cursor: pointer;
+    font-weight: bolder;
 }
